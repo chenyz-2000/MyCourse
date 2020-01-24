@@ -1,0 +1,288 @@
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+	<meta http-equiv=Content-Type content="text/html; charset=unicode">
+	<meta name=ProgId content=Word.Document>
+	<meta name=Generator content="Microsoft Word 12">
+	<meta name=Originator content="Microsoft Word 12">
+	<title>Zheng-Hua Li</title>
+	<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
+<body style="margin-left: 0px; margin-right: 0px; background-color:#ffffff;font-family: 微软雅黑 ">
+	<div class="all"> 
+
+
+
+<!--<div>
+			<img src="./img/1.jpg" width="100%" height="170">
+		</div> -->
+
+		<div>
+		<table align="left">
+			<tr>
+				<td><img src="fig/zhenghua-2018.jpg" width="130" height="189"></td>
+				<!--td><img src="fig/zhenghua-2009.jpg" width="100" height="121"></td-->
+				<td>
+					<div>
+							<p class="name"> 李正华 (<a href="http://hlt.suda.edu.cn/~zhli/en.html">English Homepage</a>) </p>
+						<p> Email: prefix@suffix, where prefix=``zhli13'' and suffix=``suda dot edu dot cn'' || prefix=``zhenghualiir'' and suffix=``gmail dot com'' </p>
+						<!--p> 新浪微博：<a href="http://weibo.com/u/1890969215">李正华NLP</a></p-->
+					</div>
+			</td>
+			</tr>
+		</table>
+		</div>
+
+	<hr>
+	<div>
+			<p class="title">简介（2019年硕士名额已满）</p>
+			<p>目前我在<a href="http://www.suda.edu.cn/">苏州大学</a> <a href="http://scst.suda.edu.cn/">计算机科学与技术学院</a> 人类语言技术研究所(<a href="http://hlt.suda.edu.cn">HLT</a>) 担任副教授（自2016年7月），硕士生导师（自2017年12月）。
+分别于2006、2008、2013年于哈尔滨工业大学取得学士、硕士、博士学位。2010年在新加坡资讯通信研究院访学半年。2013年8月加入苏州大学。2014年作为访问科学家在百度自然语言处理组交流3个月。自2005年（大三）起，我一直专注自然语言处理（Natural Language Processing, NLP）和人工智能（Artifical Intelligence, AI）领域的研究工作，涉及词法、句法、语义、篇章分析等具体方向。 目前（2017.11）成果包括：</p>
+
+			<ul>
+			<li>在顶级国际期刊和会议（IEEE-Trans-ASLP/ACL/EMNLP/COLING/AAAI）上发表学术论文15篇</li>
+			<li>在NLP国际顶级会议COLING-2014做依存句法分析相关讲习讲座（Tutorial）</li>
+			<li>承担国家自然科学基金青年项目1项（项目资助额度：3年20万元）；与百度、阿里等公司建立科研性质的合作项目（项目资助额度：每年50万元）。</li> 
+			</ul>
+
+			<p>我近期的研究兴趣包括：</p>
+			<ul>
+			<li> 分词：多粒度分词；面向网络文本</li>
+			<li> 句法分析: 利用语义知识</li>
+			<li> 语义分析: 浅层语义（语义角色标注）；深层语义如AMR (Abstract Meaning Representation)</li>
+			<li> 面向自然语言处理不同任务的数据标注平台建设：支持多人在线标注；科学的质量控制；合理的流程控制</li>
+			</ul>
+
+
+			<p>我的长远职业规划和目标是：</p>
+			<ul>
+			<li>认真上课，成为一名优秀的教师，2022年之前争取写1本跟所授课程相关的教材或讲义（Python/Linux）</li>
+			<li>认真指导研究生，培养出优秀的硕士和博士研究生</li>
+			<li>做出具有重大影响力的研究成果，促进NLP和AI领域的发展</li> 
+			</ul>
+
+			<p>我的座右铭：人生苦短，珍惜时间和精力，尽量只做自己想做的，并全力做好。</p> 
+
+		<!--p>我经常点击的研究工作相关的<a href="links.html">链接</a><p-->
+
+		<p>我喜欢的几个观点：</p>
+		<ul>
+				<li>Big things have small beginings. 出自《异形前传:普罗米修斯》. 我的解读是：任何伟大的发明、创举，都是从一些小的idea开始的。永远不要小瞧自己，总是相信自己。</li>
+				<li>科研上的重大突破，一定是多年思考、积累的结果，有时候孤独也是必须经历的状态。</li>
+				<li>开心的工作，充满热情，多关注事情积极的一面。</li>
+				<li> 做一个有趣的人。</li>
+				<li> 尊重别人和自己的不同，一个人永远无法设身处地的为另一个人着想，不要把自己的意愿（即使再善意）强加到别人身上。 </li>
+		</ul>
+	</div>
+
+	<hr>
+	<div>
+		<p class="title">大事记录</p>
+			<ul>
+			<li>期待同学们不断努力，做出有影响力的高质量工作！质量远比数量重要。</li>
+			<li>2019.3：研一同学蒋炜、张宇在SemEval-2019多语言语义分析国际评测中取得佳绩（6个第一，1个第二），详情请查看<a href="http://hlt.suda.edu.cn/index.php/2019-semeval-ucca">网址</a></li>
+			<li>2018.11：博一同学（研三、直博）夏庆荣录用CCF-A类顶级国际会议论文AAAI长文一篇（请看英文主页论文列表）</li>
+			<li>2018.2：研一同学江心舟、章波（共同第一作者）录用CCF-A类顶级国际会议论文ACL长文一篇（请看英文主页论文列表）</li>
+			<li>2017.7：研一同学龚晨（第一作者）录用CCF-B类顶级国际会议论文EMNLP长文一篇（请看英文主页论文列表） </li>
+			</ul>
+	</div>
+
+	<hr>
+	<div>
+		<p class="title">教学</p>
+		<table>
+		<tr>
+			<td style="width:120px">2019年春季学期</td>
+			<td>Linux操作系统 (<a href="http://hlt.suda.edu.cn/index.php/linux-2019-spring">网页</a>，内含笔记)</td>
+		</tr>
+		<tr>
+			<td style="width:120px">2019年春季学期</td>
+			<td>信息检索课程设计(<a href="http://hlt.suda.edu.cn/index.php/ir-2019-spring">网页</a>，内含课件和作业)</td>
+		</tr>
+		<tr>
+			<td style="width:120px">2018年秋季学期</td>
+			<td>Python程序设计 (<a href="http://hlt.suda.edu.cn/index.php/python-2018">网页</a>)</td>
+		</tr>
+		<tr>
+			<td style="width:120px">2018年春季学期</td>
+			<td>Linux操作系统 (<a href="http://hlt.suda.edu.cn/index.php/linux-2018-spring">网页</a>，内含笔记和视频链接)</td>
+		</tr>
+		<tr>
+			<td style="width:120px">2017年秋季学期</td>
+			<td>Python程序设计 (<a href="http://hlt.suda.edu.cn/gongchen/teach/python-2017-fall">网页</a>，录播课，内含视频链接)</td>
+		</tr>
+		<!--tr>
+			<td style="width:120px">2017年春季学期</td>
+			<td>Linux系统及应用 (<a href="teach/linux-2017-spring">网页</a>，可参考2015年秋季学期资料)</td>
+		</tr-->
+			<td style="width:120px">2016年秋季学期</td>
+			<td>Python程序设计(<a href="teach/python-2016-fall">网页</a>)</td>
+		</tr>
+		<tr>
+			<td style="width:120px">2016年春季学期</td>
+			<td>信息检索课程设计 (<a href="teach/ir-2016-spring">网页</a>)</td>
+		</tr>
+		<tr>
+			<td style="width:120px">2015年秋季学期</td>
+			<td>中文信息处理 （<a href="teach/cip-2015-fall">网页</a>，内含一系列重要的NLP基础讲义和编程作业）<!--(<a href="http://www.icourses.cn/coursestatic/course_6062.html">苏州大学资源共享课</a>)--> </td>
+		</tr>
+		<tr>
+			<td style="width:120px">2015年秋季学期</td>
+			<td>Linux操作系统 (<a href="teach/linux-2015-fall">网页</a>) </td>
+		</tr>
+		<!--
+		Fall 2015: wenzheng Linux; 大四 Chinese Info Proc
+		Spring 2015: 大三；成教自考
+		Fall 2014: 在职研究生；成教专升本 (weekend)
+		Spring 2014: 大三(with zhongguo); 
+		Fall 2013: wenzheng
+		-->
+		</table>
+	</div>
+
+	<hr>
+	<div>
+		<p class="title">科研成果演示系统</p>
+		<a href="http://hlt-la.suda.edu.cn">苏州大学语言分析平台 (SULAP)</a>：输入一个句子，输出分词、词性标注、依存句法分析结果。（章波同学维护）
+		<br> <br>
+		<a href="http://101.132.166.249/anno-sys">苏州大学数据标注平台 (SUDAP)</a>：给定句子，人工标注分词、句法、命名实体等信息（黄德朋、陆凯华同学开发并维护）
+		<br> <br>
+		<a href="http://101.132.166.249:5000/demo">苏州大学多粒度分词系统 </a>：输入一个句子，给出不同粒度的分词信息，以树状形式展示（蒋炜同学开发并维护）
+		<br> <br>
+	</div>
+
+	<hr>
+	<div>
+		<p class="title">正在进行的科研项目</p>
+		<a href="http://hlt.suda.edu.cn/index.php/SUCDT">依存句法数据标注</a>：雇用几十名本科同学，长期兼职标注句子的句法信息
+		<br> <br>
+	</div>
+	<hr>
+	<div>
+			<p class="title">招生</p>
+			<p class="title"> 2018年6月6日宣讲： <a href="http://hlt.suda.edu.cn/~zhli/talks/zhenghua-LAGroup-intro.pdf">ppt</a></p>
+			<p class="title"> 2017年9月宣讲： <a href="https://pan.baidu.com/s/1eSD2u2I">视频</a></p>
+		我和我所在课题组常年招收优秀本科生（大二下学期及以上年级）、硕士生、博士生。
+		
+		<br> <br>
+		我奉行的原则是做有用的研究的同时，以合适的方式培养学生，对学生负责。作为一个青年教师，最大的优势是可以和学生密切合作交流，身体力行，让学生知道如何以正确的方式做事、做研究。
+		
+		<br> <br>
+		如果您有兴趣，请发邮件联系我。<b>发邮件的方式和时间请参考</b><a href="http://hlt.suda.edu.cn/index.php/Stu_candidates">招生说明</a>。
+	</div>
+
+	<hr>
+	<div>
+		<p class="title">在读学生 (字母序) </a> </p>
+		<p class="title"> <a href=LAGroupRules>Suda-HLT-LAGroup学生管理规则</a> </p>
+		2017级博士(1)：李英（昆明理工考博）
+		<br> <br>
+		2018级博士(2)：<a href="http://hlt.suda.edu.cn/gongchen">龚晨</a>（苏大保研16硕、直博）、<a href="http://hlt.suda.edu.cn/kiro">夏庆荣</a>（苏大保研16硕、直博）
+		<br> <br>
+		2016级硕士(3)：<a href="http://hlt.suda.edu.cn/index.php/lijuan_guo">郭丽娟</a>（江西财经保研）、孙佳伟（北航，导师张民）、朱运（山西大学）
+		<br> <br>
+		2017级硕士(4)：黄德朋（苏科技）、江心舟（苏大保研）、彭雪（山东农大）、章波（苏大）
+		<br> <br>
+		2018级硕士(5)：蒋炜（苏大）、刘亚慧（山东农大，导师张民）、陆凯华（苏大，导师张民）、吴锟（浙江理工）、张宇（苏大）
+		<br> <br>
+		2019级硕士(4)： 目前名额已满，不用再发邮件给我了，谢谢大家！
+	</div>
+
+	<hr>
+	<div>
+		<p class="title">毕业学生 (字母序)</p>
+		2014级硕士(1)：<a href="http://hlt.suda.edu.cn/~jychao">巢佳媛</a>（苏大、微软北京实习、阿里巴巴杭州工作）
+		<br> <br>
+		2015级硕士(3)：<a href="http://hlt.suda.edu.cn/index.php/wei_chen">陈伟</a>（南阳理工、爱奇艺北京实习、爱奇艺北京工作）、<a href="http://hlt.suda.edu.cn/zwfan">凡子威</a>（滁州学院、科大讯飞北京实习、搜狗北京工作） 、<a href="http://hlt.suda.edu.cn/yzhang">张月</a>（苏大保研、阿里巴巴杭州实习、阿里巴巴杭州工作）
+		<br> <br>
+		<p class="title">本科毕业论文指导：<a href="http://hlt.suda.edu.cn/index.php/zhenghua-undergraduate-thesis">指导详情网页</a></p>
+		2014级本科毕设：蒋炜、李丹、陆凯华
+		<br> <br>
+		2013级本科毕设(5)：胡蝶、江心舟、孙文杰、严秋怡、章波
+		<br> <br>
+		2012级本科毕设(2)：龚晨、夏庆荣
+		<br> <br>
+		2011级本科毕设(4)：陆芳丽、穆景泉、王效静、张月
+		<br> <br>
+		2010级本科毕设(1)：郁俊杰
+		<br> <br>
+	</div>
+
+	<!--div>
+		<p class="title">Awards</p>
+		<p style="font-weight:bold">2010</p>
+		<ul>
+			<li>刘挺, 车万翔, 张宇, 秦兵, <i>李正华</i>, 郎君, 赵世奇, 陈毅恒, 赵妍妍.  语言技术平台（Language Technology Platform, LTP）项目,获钱伟长中文信息处理科学技术奖一等奖。</li>
+		</ul>
+	</div-->
+
+
+	<hr>
+	<div>
+		<p class="title">中文论文（英文论文列表请见英文版主页）</p>
+		<ul>
+				<br>
+				<li> 郭丽娟, <i>李正华</i>, 彭雪, 张民. 2018. <i>适应多领域多来源文本的汉语依存句法数据标注规范</i>. 中文信息学报. 2018, 32(10):28-35-52 
+				(<a href="./papers/lijuan-jocip18-guideline.pdf">pdf</a>)</li>
+
+				<br>
+				<li> 孙佳伟, <i>李正华</i>, 陈文亮, 张民. 2018. <i>上下位关系分类</i>. 北京大学学报（自然科学版）. 2018, x(x):x-x (NLPCC 2018论文转投) 
+				</li>
+
+				<br>
+				<li> 孙佳伟, <i>李正华</i>, 陈文亮, 张民. 2018. <i>Hypernym Relation Classification based on Word Pattern (基于词模式嵌入的词语上下位关系分类)</i>. Proceedings of the 7th International Conference on Natural Language Processing and Chinese Computing (<b>NLPCC-2018</b>), pp. x-x, Hohhot（呼和浩特）, 中国, 26-30 Aug, 2018 
+				(<a href="./papers/jiawei-peking18-hyponym.pdf">pdf</a>)</li>
+
+				<br>
+				<li> 凡子威, <i>李正华</i>, 张民. 2018. <i>篇章分析</i>. 计算机科学？. 2018, x(x):x-x 
+				(<a href="./papers/lijuan-ijcop18-dep-guideline.pdf">pdf待上传</a>)</li>
+
+				<br>
+				<li>高恩婷, 巢佳媛, <i>李正华</i>. 2015. <i>面向词性标注的多资源转化研究</i>. 北京大学学报(自然科学版). 2015, 51(2):328-334 (NLPCC 2014优秀论文转投) 
+				(<a target="_blank" href="./papers/zhenghua-peking15-pos.pdf">pdf</a>)</li>
+
+				<br>
+				<li> <i>李正华</i>, 李渝勤, 刘挺, 车万翔. 2013. <i>数据驱动的依存句法分析方法研究</i>. 智能计算机与应用. 2013, 3(5):1-4
+				(<a target="_blank" href="./papers/zhenghua-13-dp.pdf">pdf</a>)</li>
+
+				<br>
+				<li><i>李正华</i>. 2013. <i>汉语依存句法分析关键技术研究</i>. <b>博士学位论文</b>. 2013年3月. 哈尔滨工业大学. (<a target="_blank" href="./papers/zhenghua-2013-phd-thesis.pdf">pdf</a>, <a target="_blank" href="./talks/zhenghua-2013-phd-thesis-defence.pptx">pptx</a>)</li>
+
+				<br>
+				<li>  刘挺, 车万翔, <i>李正华</i>. 2011. <i>语言技术平台</i>. 中文信息处理. 2011, 25(6):53-62 
+				(<a target="_blank" href="./papers/zhenghua-jocip11-ltp.pdf">pdf</a>)</li>
+
+				<br>
+				<li><i>李正华</i>, 车万翔, 刘挺. 2010. <i>基于柱搜索的高阶依存句法分析</i>. 中文信息处理. 2010, 24(1):37-41 
+				(<a target="_blank" href="./papers/zhenghua-jocip10-beam.pdf">pdf</a>)</li>
+
+				<br>
+				<li><i>李正华</i>, 车万翔, 刘挺. 2008. <i>短语结构树库向依存结构树库转化研究</i>. 中文信息处理. 2008, 22(6):14-19 (第四届全国学生计算语言学研讨会<a target="_blank" href="papers/zhenghua-swcl08-treebanks.pdf">优秀论文</a>转投) 
+				(<a target="_blank" href="./papers/zhenghua-jocip08-treebanks.pdf">pdf</a>)</li>
+
+				<br>
+				<li> 郎君, 秦兵, 刘挺, <i>李正华</i>, 李生. 2008. <i>中文人称名词短语单复数自动识别</i>. 自动化学报. 2008, 34(8):972-979
+				(<a target="_blank" href="./papers/langjun-08-noun-number.pdf">pdf</a>)</li>
+		</ul>
+	</div>
+
+
+	</div>
+	<hr>
+	<p align="center" class="uptime">
+	最后更新(UTC/GMT): <SCRIPT LANGUAGE="javaScript">
+			<!--
+			document.writeln(document.lastModified);
+	</SCRIPT>
+	</p>
+
+</body>
+</html>
+
+
+
